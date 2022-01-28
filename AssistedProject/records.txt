@@ -1,4 +1,0 @@
-100,sam,25,23,delhi
-1oo,sam,22,22,delhi
-100,Santhosh,23,13678
-100,SANTHOSH,23,1314
